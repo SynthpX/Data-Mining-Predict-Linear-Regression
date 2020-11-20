@@ -1,1 +1,1 @@
-#Data Mining Predict Movie Revenue using Linear Regression
+#Data Mining Predict Movie Revenue using Linear Regression (manual pre processing)
